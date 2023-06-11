@@ -187,10 +187,9 @@
 
 .klynt-button-9 {
 	opacity: 0.75;
-	background-image: url("img/custom-button-9.png");
+	background-image: url("img/button-9.png");
 }
 
 .klynt-button-9:hover {
 	background-image: url("img/custom-button-9-hover.png");
-	opacity: 1;
 }

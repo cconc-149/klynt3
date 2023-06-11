@@ -1,15 +1,15 @@
 klynt.miniPlayerData = {
-    "resumePlaybackWording": "Resume playback?",
-    "launchAppWording": "Then Launch Project",
+    "analyticsKey": "",
     "yesWording": "Yes",
     "redirectToMobileApp": "auto",
     "thanksForWatchingWording": "Thanks for watching!",
     "noWording": "No",
-    "analyticsKey": "",
+    "resumePlaybackWording": "Resume playback?",
     "downloadAppWording": "Download App",
-    "title": "solv3 th1s",
+    "launchAppWording": "Then Launch Project",
     "url": "",
+    "title": "solv3 th1s",
     "fullscreenInfoWording": "This program will launch in fullscreen",
-    "thumbnail": "Medias/Posters/home.mp4.jpg",
+    "thumbnail": "Medias/Thumbnails/Black_colour.jpg.jpg",
     "description": ""
 }
